@@ -16,7 +16,7 @@
 - Q11: What is backward propagation?
 - Q12: How we assign weights in deep learning?
 - Q13: What is optimizer is deep learning, and which one is the best?
-Q14: What is gradient descent, mini-batch gradient descent, batch gradient decent, stochastic gradient descent and Adam?
+- Q14: What is gradient descent, mini-batch gradient descent, batch gradient decent, stochastic gradient descent and Adam?
 - Q15: What are autoencoders?
 - Q16: What is CNN?
 - Q17: What is pooling, padding, filtering operations on CNN?
