@@ -22,4 +22,4 @@ Q16: What is CNN?
 Q17: What is pooling, padding, filtering operations on CNN?
 Q18: What is the Evolution technique of CNN?
 Q19: How to initialize biases in deep learning?
-Q20: What is learning Rate?
+- Q20: What is learning Rate?
