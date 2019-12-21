@@ -18,7 +18,7 @@
 - Q13: What is optimizer is deep learning, and which one is the best?
 Q14: What is gradient descent, mini-batch gradient descent, batch gradient decent, stochastic gradient descent and Adam?
 Q15: What are autoencoders?
-Q16: What is CNN?
+- Q16: What is CNN?
 - Q17: What is pooling, padding, filtering operations on CNN?
 - Q18: What is the Evolution technique of CNN?
 - Q19: How to initialize biases in deep learning?
