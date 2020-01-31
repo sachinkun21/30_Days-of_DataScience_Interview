@@ -13,6 +13,29 @@
 
 ### Day 2 Questions:
 
+Q1. What is Logistic Regression?
+Q2. Difference between logistic and linear regression?
+Q3. Why we can’t do a classification problem using Regression?
+Q4. What is Decision Tree?
+Q5. Entropy, Information Gain, Gini Index, Reducing Impurity?
+Q6. How to control leaf height and Pruning?
+Q7. How to handle a decision tree for numerical and categorical
+data?
+Q8. What is the Random Forest Algorithm?
+Q9. What is Variance and Bias tradeoff?
+Q10. What are Ensemble Methods?
+Q11. What is SVM Classification?
+Q11. What is Naive Bayes Classification and Gaussian Naive Bayes
+Q12. What is the Confusion Matrix?
+Q13. What is Accuracy and Misclassification Rate?
+Q14. True Positive Rate & True Negative Rate
+Q15. What is False Positive Rate & False negative Rate?
+Q16. What are F1 Score, precision and recall?
+Q17. What is RandomizedSearchCV?
+Q18. What is GridSearchCV?
+Q19. What is BaysianSearchCV?
+Q20. What is ZCA Whitening?
+
 ### Day 3 Questions:
 
 
