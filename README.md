@@ -18,10 +18,10 @@
 
 
 ### Day 4 Questions:
-- Q1. What is upsampling and downsampling with examples?
-- Q2. What is the statistical test for data validation with an example, Chi-square, ANOVA test, Z statics, T statics, F statics, Hypothesis Testing?
-- Q3. What is the Central limit theorem?
-- Q4. What are the correlation and coefficient?
+- Q1: What is upsampling and downsampling with examples?
+- Q2: What is the statistical test for data validation with an example, Chi-square, ANOVA test, Z statics, T statics, F statics, Hypothesis Testing?
+- Q3: What is the Central limit theorem?
+- Q4: What are the correlation and coefficient?
 - Q5: What is the difference between machine learning and deep learning?
 - Q6: What is perceptron and how it is related to human neurons?
 - Q7: Why deep learning is better than machine learning?
