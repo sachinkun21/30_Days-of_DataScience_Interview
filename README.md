@@ -24,8 +24,8 @@ data?
 - Q8. What is the Random Forest Algorithm?
 - Q9. What is Variance and Bias tradeoff?
 - Q10. What are Ensemble Methods?
-- Q11. What is SVM Classification?
-- Q12. What is Naive Bayes Classification and Gaussian Naive Bayes
+- Q11(a). What is SVM Classification?
+- Q11(b). What is Naive Bayes Classification and Gaussian Naive Bayes
 - Q12. What is the Confusion Matrix?
 - Q13. What is Accuracy and Misclassification Rate?
 - Q14. True Positive Rate & True Negative Rate
