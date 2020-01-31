@@ -1,3 +1,5 @@
+### Day 2 Questions:
+
 ### Day 3 Questions:
 
 
@@ -23,4 +25,3 @@
 - Q18: What is the Evolution technique of CNN?
 - Q19: How to initialize biases in deep learning?
 - Q20: What is learning Rate?
-f
