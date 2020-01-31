@@ -1,5 +1,16 @@
 ### Day 1 Questions:
 
+- Q1. What is the difference between AI, Data Science, ML, and DL?
+- Q2. What is the difference between Supervised learning, Unsupervised learning and Reinforcement learning?
+- Q3. Describe the general architecture of Machine learning.
+- Q4. What is Linear Regression?
+- Q5. OLS Stats Model (Ordinary Least Square)
+- Q6. What is L1 Regularization (L1 = lasso) ?
+- Q7. L2 Regularization(L2 = Ridge Regression)
+- Q8. What is R square(where to use and where not)?
+- Q9. What is Mean Square Error?
+- Q10. Why Support Vector Regression? Difference between SVR and a simple regression model
+
 ### Day 2 Questions:
 
 ### Day 3 Questions:
