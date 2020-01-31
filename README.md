@@ -1,3 +1,5 @@
+### Day 1 Questions:
+
 ### Day 2 Questions:
 
 ### Day 3 Questions:
