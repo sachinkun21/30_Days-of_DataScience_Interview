@@ -18,12 +18,12 @@
 - Q3. Why we can’t do a classification problem using Regression?
 - Q4. What is Decision Tree?
 - Q5. Entropy, Information Gain, Gini Index, Reducing Impurity?
-Q6. How to control leaf height and Pruning?
-Q7. How to handle a decision tree for numerical and categorical
+- Q6. How to control leaf height and Pruning?
+- Q7. How to handle a decision tree for numerical and categorical
 data?
-Q8. What is the Random Forest Algorithm?
-Q9. What is Variance and Bias tradeoff?
-Q10. What are Ensemble Methods?
+- Q8. What is the Random Forest Algorithm?
+- Q9. What is Variance and Bias tradeoff?
+- Q10. What are Ensemble Methods?
 Q11. What is SVM Classification?
 Q11. What is Naive Bayes Classification and Gaussian Naive Bayes
 Q12. What is the Confusion Matrix?
