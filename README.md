@@ -29,12 +29,12 @@ Q11. What is Naive Bayes Classification and Gaussian Naive Bayes
 Q12. What is the Confusion Matrix?
 Q13. What is Accuracy and Misclassification Rate?
 Q14. True Positive Rate & True Negative Rate
-Q15. What is False Positive Rate & False negative Rate?
-Q16. What are F1 Score, precision and recall?
-Q17. What is RandomizedSearchCV?
-Q18. What is GridSearchCV?
-Q19. What is BaysianSearchCV?
-Q20. What is ZCA Whitening?
+- Q15. What is False Positive Rate & False negative Rate?
+- Q16. What are F1 Score, precision and recall?
+- Q17. What is RandomizedSearchCV?
+- Q18. What is GridSearchCV?
+- Q19. What is BaysianSearchCV?
+- Q20. What is ZCA Whitening?
 
 ### Day 3 Questions:
 
