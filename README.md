@@ -13,11 +13,11 @@
 
 ### Day 2 Questions:
 
-Q1. What is Logistic Regression?
-Q2. Difference between logistic and linear regression?
-Q3. Why we can’t do a classification problem using Regression?
-Q4. What is Decision Tree?
-Q5. Entropy, Information Gain, Gini Index, Reducing Impurity?
+- Q1. What is Logistic Regression?
+- Q2. Difference between logistic and linear regression?
+- Q3. Why we can’t do a classification problem using Regression?
+- Q4. What is Decision Tree?
+- Q5. Entropy, Information Gain, Gini Index, Reducing Impurity?
 Q6. How to control leaf height and Pruning?
 Q7. How to handle a decision tree for numerical and categorical
 data?
